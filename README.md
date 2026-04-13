@@ -5,8 +5,7 @@
 **Self-taught developer from Costa Rica 🇨🇷**  
 Building tools, maps, and open-source things one project at a time.
 
-[![Portfolio](https://img.shields.io/badge/BadgesWallet-22_Certifications-0d9488?style=flat-square)](https://mikedmart.github.io/BadgesWallet/)
-[![Profile views](https://komarev.com/ghpvc/?username=MikeDMart&style=flat-square&color=0d9488)](https://github.com/MikeDMart)
+
 
 </div>
 
