@@ -5,8 +5,6 @@
 **Self-taught developer from Costa Rica 🇨🇷**  
 Building tools, maps, and open-source things one project at a time.
 
-
-
 </div>
 
 ---
@@ -15,13 +13,14 @@ Building tools, maps, and open-source things one project at a time.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**PokeData**](https://mikedmart.github.io/PokeData/) | Cinematic editorial-style Pokédex — pokéball animations, type theming, cries, shiny toggle, evolution chains, favorites | Vanilla JS · CSS3 · PokéAPI · Web Audio API |
-| [**GitGhost**](https://github.com/MikeDMart/GitGhost) | CLI that audits repos for duplicate files, orphaned images, and dead npm deps — then opens a PR to clean them up | Node.js · glob · GitHub CLI · npm |
-| [**Punto Eléctrico CR**](https://mikedmart.github.io/Punto-Electrico-CR/) | Community-powered EV charging map for Costa Rica, fusing Open Charge Map with a local verified dataset | Leaflet · MarkerCluster · OpenChargeMap API · Vanilla JS |
+| [**PokeData**](https://tek-saas.github.io/PokeData/) | Cinematic editorial-style Pokédex — pokéball animations, type theming, cries, shiny toggle, evolution chains, favorites | Vanilla JS · CSS3 · PokéAPI · Web Audio API |
+| [**GitGhost**](https://github.com/Tek-SaaS/GitGhost) | CLI that audits repos for duplicate files, orphaned images, and dead npm deps — then opens a PR to clean them up | Node.js · glob · GitHub CLI · npm |
+| [**Punto Eléctrico CR**](https://tek-saas.github.io/PuntoElectricoCR/) | Community-powered EV charging map for Costa Rica, fusing Open Charge Map with a local verified dataset | Leaflet · MarkerCluster · OpenChargeMap API · Vanilla JS |
 
 ---
 
 ## 🛠️ Stack
+
 ```
 Languages     JavaScript (ES6+)  ·  HTML5  ·  CSS3  ·  Bash  ·  SQL
 Runtime       Node.js
@@ -38,7 +37,7 @@ Tools         git  ·  GitHub CLI  ·  npm  ·  VS Code
 ## 🎓 Certifications
 
 <details>
-<summary> active certifications — click to expand</summary>
+<summary>active certifications — click to expand</summary>
 
 **Google**
 - Google IT Support Professional Certificate
@@ -68,6 +67,8 @@ Tools         git  ·  GitHub CLI  ·  npm  ·  VS Code
 ## 📫 Find me
 
 [![GitHub](https://img.shields.io/badge/GitHub-MikeDMart-181717?style=flat-square&logo=github)](https://github.com/MikeDMart)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mike--d--m--517037386-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-d-m-517037386/)
+[![Org](https://img.shields.io/badge/Org-Tek--SaaS-6f42c1?style=flat-square&logo=github)](https://github.com/Tek-SaaS)
 
 ---
 
